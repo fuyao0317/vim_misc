@@ -51,6 +51,7 @@ let g:airline#themes#fuyao#palette.tabline = {
       \ 'airline_tabmod':   ['#2e2e2e' , '#a4c639' , 188 , 240 , '' ],
       \ 'airline_tabfill':  ['#c8c8c8' , '#2e2e2e' , 240 , 235 , '' ],
       \ 'airline_tabtype':  ['#c8c8c8' , '#2e2e2e' , 240 , 235 , '' ],
+      \ 'airline_tabhid':  ['#c8c8c8' , '#2e2e2e' , 240 , 235 , '' ],
       \ }
 
 let s:WI = [ '#ff0000', '#2e2e2e', 196, 235 ]
