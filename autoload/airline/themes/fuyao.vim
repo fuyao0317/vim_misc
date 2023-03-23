@@ -46,8 +46,8 @@ let g:airline#themes#fuyao#palette.inactive = airline#themes#generate_color_map(
 let g:airline#themes#fuyao#palette.normal_modified.airline_term    = s:N1
 let g:airline#themes#fuyao#palette.normal.airline_term    = s:N1
 let g:airline#themes#fuyao#palette.tabline = {
-      \ 'airline_tab':      ['#c8c8c8' , '#2e2e2e' , 240 , 235 , '' ],
-      \ 'airline_tabsel':   ['#2e2e2e' , '#a4c639' , 188 , 240 , '' ],
+      \ 'airline_tab':      ['#4e4e4e' , '#2e2e2e' , 240 , 235 , '' ],
+      \ 'airline_tabsel':   ['#c8c8c8' , '#6e6e6e' , 188 , 240 , '' ],
       \ 'airline_tabmod':   ['#2e2e2e' , '#a4c639' , 188 , 240 , '' ],
       \ 'airline_tabfill':  ['#c8c8c8' , '#2e2e2e' , 240 , 235 , '' ],
       \ 'airline_tabtype':  ['#c8c8c8' , '#2e2e2e' , 240 , 235 , '' ],
